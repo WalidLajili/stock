@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/group"
+        android:title="@string/title_member" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/outline_category_24"
+        android:title="@string/title_category" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/outline_upload_file_24"
+        android:title="@string/title_loan" />
+
+</menu>
